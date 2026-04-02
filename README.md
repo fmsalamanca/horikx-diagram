@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Horikx Diagram Logo](path-to-logo) <!-- TODO: Add a project logo, perhaps a simplified Horikx diagram -->
 
 [![GitHub stars](https://img.shields.io/github/stars/fmsalamanca/horikx-diagram?style=for-the-badge)](https://github.com/fmsalamanca/horikx-diagram/stargazers)
 
